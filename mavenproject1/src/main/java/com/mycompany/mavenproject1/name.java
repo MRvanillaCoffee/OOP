@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author s6803052411022
  */
-public class Mavenproject1 {
+public class name {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
